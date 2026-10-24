@@ -18,13 +18,13 @@ I work at the intersection of **instrumentation** and **data**: getting reliable
 ### Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| [Prediksi SPMB SMP Bandung](https://github.com/RendyNOA/prediksi-spmb-smp-bandung) | Admission-chance dashboard for Bandung public junior high schools, built from official 2023–2026 selection data | HTML/JS, Excel, Python |
-| [UTS Sistem Cerdas](https://github.com/RendyNOA/UTS_Sisdas_Rendy-Ryan-R_TF-46-02) | Intelligent systems coursework | Python, Jupyter |
+| [Wearable Air-Quality Analytics](https://github.com/RendyNOA/wearable-air-quality-analytics) | Workflow for wearable low-cost air-quality sensor data: calibration against a reference, movement effects, IMU activity recognition, and adaptive sampling, validated with leave-one-session/subject-out (synthetic data) | Python, pandas, scikit-learn, pytest |
+| [Bandung SPMB Admission Predictor](https://github.com/RendyNOA/Prediksi-SPMB-SMP-Bandung) | Admission-chance dashboard for Bandung public junior high schools, built from official 2023–2026 selection data · [live demo](https://rendynoa.github.io/Prediksi-SPMB-SMP-Bandung/) | HTML/JS, Excel, Python |
 | [Computation](https://github.com/RendyNOA/Computation) | Numerical computation algorithms for engineering coursework | Excel |
 | [Exploring in C](https://github.com/RendyNOA/Exploring-in-C-Language) | My first steps in programming | C |
 
 ### Tools
-`Python` `Jupyter` `Excel` `C` `HTML/CSS/JavaScript` `Git`
+`Python` `pandas` `scikit-learn` `Jupyter` `Excel` `C` `HTML/CSS/JavaScript` `Git` `GitHub Actions`
 
 ### Connect
 - 🌐 Portfolio: [rendynoa.github.io](https://rendynoa.github.io/)
